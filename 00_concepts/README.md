@@ -14,7 +14,7 @@ Added freely as curiosity arose — not part of a fixed curriculum.
 | [deterministic_vs_stochastic.md](./deterministic_vs_stochastic.md) | Why changing the loss function alone doesn't fix BC — and how 6 different model types handle multimodal data | 01 |
 | [score_function.md](./score_function.md) | The mathematical connection between DDPM noise prediction and score matching | 01 |
 | [unet.md](./unet.md) | U-Net architecture: encoder-decoder, skip connections, time conditioning | 01, 02 |
-
+| [diffusion_vs_diffusion_policy.md](./diffusion_vs_diffusion_policy.md) | Diffusion vs Diffusion Policy — the difference between unconditional generation and state-conditioned action generation | 01, 02 |
 ---
 
 ## How These Concepts Connect
